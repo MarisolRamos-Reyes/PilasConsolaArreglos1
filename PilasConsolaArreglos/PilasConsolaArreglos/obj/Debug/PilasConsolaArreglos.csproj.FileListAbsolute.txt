@@ -1,0 +1,7 @@
+C:\Users\costi\source\repos\PilasConsolaArreglos\PilasConsolaArreglos\bin\Debug\PilasConsolaArreglos.exe.config
+C:\Users\costi\source\repos\PilasConsolaArreglos\PilasConsolaArreglos\bin\Debug\PilasConsolaArreglos.exe
+C:\Users\costi\source\repos\PilasConsolaArreglos\PilasConsolaArreglos\bin\Debug\PilasConsolaArreglos.pdb
+C:\Users\costi\source\repos\PilasConsolaArreglos\PilasConsolaArreglos\obj\Debug\PilasConsolaArreglos.csprojAssemblyReference.cache
+C:\Users\costi\source\repos\PilasConsolaArreglos\PilasConsolaArreglos\obj\Debug\PilasConsolaArreglos.csproj.CoreCompileInputs.cache
+C:\Users\costi\source\repos\PilasConsolaArreglos\PilasConsolaArreglos\obj\Debug\PilasConsolaArreglos.exe
+C:\Users\costi\source\repos\PilasConsolaArreglos\PilasConsolaArreglos\obj\Debug\PilasConsolaArreglos.pdb
